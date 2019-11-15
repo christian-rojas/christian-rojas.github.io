@@ -114,6 +114,12 @@ body,html{
 	padding-bottom: 30px;
 	height: 100vh;
 }
+.avatar{
+	width: 100px;
+}
+.card-text{
+	font-size: 30px !important;
+}
 
 	}
 
