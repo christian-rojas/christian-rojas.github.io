@@ -25,7 +25,7 @@
 	font-weight: bold;
 }
 .contact i{
-	font-size: 40px;
+	font-size: 70px;
 
 }
 .contact h3{
@@ -174,4 +174,7 @@ body,html{
 }
 .testimonial-card .card-body {
     text-align: center;
+}
+.fab{
+	width:70px;
 }
